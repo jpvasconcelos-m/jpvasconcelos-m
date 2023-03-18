@@ -17,7 +17,8 @@ I am **João Pedro**.
 - 📫 How to reach me:
   [E-mail]: joaopedrosao@gmail.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpvasconcelos-m&layout=compact&theme=dark&hide_border=true)
+![Top Langs][![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/jpvasconcelos-m
+/github-readme-stats)
 
 ![João Pedro's github stats](https://github-readme-stats.vercel.app/api?username=jpvasconcelos-m&show_icons=true&hide_border=true&theme=dark)
 
