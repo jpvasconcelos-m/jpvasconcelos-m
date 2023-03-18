@@ -13,7 +13,7 @@ I am **João Pedro**.
 
 - 🔭 I’m currently working as **IT Support**
 - 🌱 I’m currently learning **Java** and *C*
-- 
+- I'm currently working on a Java web automation project using Selenium.
 - 📫 How to reach me:
   [E-mail]: joaopedrosao@gmail.com
 
