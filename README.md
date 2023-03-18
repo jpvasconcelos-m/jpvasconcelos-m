@@ -12,7 +12,8 @@ I am **João Pedro**.
 ---
 
 - 🔭 I’m currently working as **IT Support**
-- 🌱 I’m currently learning **Java** and *Python*
+- 🌱 I’m currently learning **Java** and *C*
+- 
 - 📫 How to reach me:
   [E-mail]: joaopedrosao@gmail.com
 
