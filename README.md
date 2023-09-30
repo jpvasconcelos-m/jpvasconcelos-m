@@ -14,7 +14,7 @@
 ---
 
 - 🔭  I'm currently working on a Java web automation project using Selenium.
-- 🌱 I’m currently learning **Java** and *C*
+- 🌱 I’m currently learning **Java**
 - 📫 How to reach me:
   [E-mail]: joaopedrosao@gmail.com
 
