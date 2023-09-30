@@ -6,6 +6,8 @@
 </h3>
 
 
+![ezgif com-resize](https://github.com/jpvasconcelos-m/jpvasconcelos-m/assets/121913086/08000e62-b87b-4459-a86d-f0aac5e0d333)
+
 
 [![Linkedin: João](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/jo%C3%A3o-vasconcelos-7341741a4/)](https://www.linkedin.com/in/jo%C3%A3o-vasconcelos-7341741a4//)
 
