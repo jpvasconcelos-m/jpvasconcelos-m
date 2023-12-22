@@ -24,9 +24,9 @@
 
 ---
 
-- 🔭  I'm currently working on a Java help desk request system.
+- 🔭  I'm working on a  help desk ticket system https://github.com/jpvasconcelos-m/easedesk.
 - <a href="https://img.shields.io/badge/https%3A%2F%2Fraw.githubusercontent.com%2Fjmnote%2Fz-icons%2Fmaster%2Fsvg%2Fjava.svg">
-    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="ezcv logo" width="25" height="25"></a> I’m currently learning Java
+    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="ezcv logo" width="25" height="25"></a> I’m currently studying Java
 - 👨‍💻 How to reach me [E-mail]: joaopedrosao@gmail.com
 
 ![](https://github-readme-stats.vercel.app/api?username=jpvasconcelos-m&show_icons=true&hide_border=false&theme=dark)              
