@@ -24,10 +24,9 @@
 
 ---
 
-- 🔭  I'm working on a  help desk ticket system https://github.com/jpvasconcelos-m/easedesk.
+- 🔭  I'm currently developing an inventory management system for IT equipment: https://github.com/jpvasconcelos-m/InventarioHGV
 - <a href="https://img.shields.io/badge/https%3A%2F%2Fraw.githubusercontent.com%2Fjmnote%2Fz-icons%2Fmaster%2Fsvg%2Fjava.svg">
-    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="ezcv logo" width="25" height="25"></a> I’m currently studying Java
-- 👨‍💻 How to reach me [E-mail]: joaopedrosao@gmail.com
+    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="ezcv logo" width="25" height="25"></a> Looking forward to improve my knowledge towards Java programming.
 
 ![](https://github-readme-stats.vercel.app/api?username=jpvasconcelos-m&show_icons=true&hide_border=false&theme=dark)              
 
