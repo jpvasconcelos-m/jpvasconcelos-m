@@ -28,7 +28,14 @@
 - <a href="https://img.shields.io/badge/https%3A%2F%2Fraw.githubusercontent.com%2Fjmnote%2Fz-icons%2Fmaster%2Fsvg%2Fjava.svg">
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="ezcv logo" width="25" height="25"></a> Looking forward to improve my knowledge towards Java programming.
 
-![](https://github-readme-stats.vercel.app/api?username=jpvasconcelos-m&show_icons=true&bg_color=0D1117&hide_border=false&theme=cobalt2&border_color=1f222e)         <img alt="Hud0shnik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpvasconcelos-m&langs_count=3&layout=compact&theme=cobalt2&bg_color=0D1117&title_color=F8F8FFC&icon_color=0D1117&&border_color=1F222E&hide=c%2B%2B" height="196px" width="430px"/>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+
 
 
 
