@@ -5,10 +5,10 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jpvasconcelos-m&repo=InventarioHGV" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jpvasconcelos-m&repo=InventarioHGV&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jpvasconcelos-m&repo=easedesk" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jpvasconcelos-m&repo=easedesk&theme=transparent" />
 </a>
 
 
@@ -19,7 +19,7 @@
 ---
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpvasconcelos-m&layout=compact&langs_count=8&card_width=600" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpvasconcelos-m&layout=compact&langs_count=8&card_width=600&theme=transparent" />
 </a>
 
 
