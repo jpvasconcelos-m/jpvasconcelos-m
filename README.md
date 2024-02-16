@@ -8,7 +8,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jpvasconcelos-m&repo=InventarioHGV&theme=transparent" />
 </a>
 <a href="https://github.com/jpvasconcelos-m/easedesk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jpvasconcelos-m&repo=easedesk&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jpvasconcelos-m&repo=easedesk&theme=transparent" style="height: 140px; />
 </a>
 
 
