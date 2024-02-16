@@ -20,28 +20,11 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
----
-
-
-
-
-
 <div class='container'>
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=jpvasconcelos-m&show_icons=true&theme=transparent&hide_border=true&hide_title=true" />
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=jpvasconcelos-m&show_icons=true&theme=transparent&hide_border=false&hide_title=true" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpvasconcelos-m&theme=transparent&hide_border=true&langs_count=8&layout=compact" /></div>
-</div>
+
 
 
 
