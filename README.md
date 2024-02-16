@@ -13,9 +13,6 @@
 
 
     
-<a href="https://github.com/jpvasconcelos-m/easedesk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jpvasconcelos-m&repo=easedesk&theme=transparent" />
-</a>
 
 
 
