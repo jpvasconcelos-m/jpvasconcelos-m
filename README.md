@@ -24,13 +24,12 @@
 
 
 
-
-
-
-
-
-
 ---
+
+
+
+
+
 
 
 
@@ -40,7 +39,7 @@
 
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpvasconcelos-m&theme=transparent&hide_border=true&langs_count=8&layout=compact" /></div>
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpvasconcelos-m&theme=transparent&hide_border=false&langs_count=8&layout=compact" /></div>
 </div>
 
 
