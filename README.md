@@ -28,11 +28,11 @@
 - <a href="https://img.shields.io/badge/https%3A%2F%2Fraw.githubusercontent.com%2Fjmnote%2Fz-icons%2Fmaster%2Fsvg%2Fjava.svg">
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="ezcv logo" width="25" height="25"></a> Looking forward to improve my knowledge towards Java programming. 
 
-<a href="https://github.com/jpvasconcelos-m/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jpvasconcelos-m&theme=transparent&hide_border=false&disable_animations=true" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpvasconcelos-m&layout=compact&langs_count=8&theme=transparent&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 
