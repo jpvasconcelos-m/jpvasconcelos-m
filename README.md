@@ -5,10 +5,10 @@
 
 
 <a href="https://github.com/jpvasconcelos-m/InventarioHGV">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jpvasconcelos-m&repo=InventarioHGV&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jpvasconcelos-m&repo=InventarioHGV&theme=transparent"style=" />
 </a>
 <a href="https://github.com/jpvasconcelos-m/easedesk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jpvasconcelos-m&repo=easedesk&theme=transparent" style="height: 140px; />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jpvasconcelos-m&repo=easedesk&theme=transparent" />
 </a>
 
 
