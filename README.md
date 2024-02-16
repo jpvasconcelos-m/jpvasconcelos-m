@@ -1,9 +1,5 @@
 
-### Hi 👋, I'm 
 
-<h3 align="center"><a href="https://hud0shnik.github.io/">
-   <img alt="João Vasconcelos" src="https://readme-typing-svg.herokuapp.com/?lines=João+Pedro+Vasconcelos;&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a>
-</h3>
 
 
 
