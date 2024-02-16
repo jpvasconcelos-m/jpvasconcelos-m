@@ -26,10 +26,6 @@
 
 <div class='container'>
 
-&nbsp;
-&nbsp;
-<img style="height: 200px; width: 100%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpvasconcelos-m&theme=transparent&hide_border=true&langs_count=8&layout=compact" /></div>
-</div>
 
 
 
