@@ -5,7 +5,7 @@
 
 
 <a href="https://github.com/jpvasconcelos-m/InventarioHGV">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jpvasconcelos-m&repo=InventarioHGV&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jpvasconcelos-m&repo=EtiquetasAIH&theme=transparent" />
 </a>
 
 
